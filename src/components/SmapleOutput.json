@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Aya Elamroussi",
+            "title": "A powerful winter storm claims at least 11 lives across the US as temperatures plunge, winds howl and power lines fall - CNN",
+            "description": "Hundreds of thousands of Americans are waking up in the dark to unlit trees on Christmas Eve, after destructive winds and heavy snow from a winter storm tore down power lines and endangered drivers across the country, killing at least a dozen people in its pa…",
+            "url": "https://www.cnn.com/2022/12/24/weather/christmas-arctic-winter-storm-power-outages-saturday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221223171142-16-winter-weather-1223-kentucky.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-24T12:13:00Z",
+            "content": "Hundreds of thousands of Americans are waking up in the dark to unlit trees on Christmas Eve, after destructive winds and heavy snow from a winter storm tore down power lines and endangered drivers a… [+4549 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Reuters",
+            "title": "'The Serpent' serial killer Charles Sobhraj returns to France - New York Post ",
+            "description": "Charles Sobhraj, a convicted killer who police believe killed more than 20 western backpackers on the “hippie trail” through Asia in the 1970s and 1980s, returned to France on Saturday …",
+            "url": "https://nypost.com/2022/12/24/the-serpent-serial-killer-charles-sobhraj-returns-to-france/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/12/newspress-collage-25126062-1671873809259.jpg?quality=75&strip=all&1671856011&w=1024",
+            "publishedAt": "2022-12-24T09:42:00Z",
+            "content": "Charles Sobhraj, a convicted killer who police believe killed more than 20 western backpackers on the “hippie trail” through Asia in the 1970s and 1980s, returned to France on Saturday after nearly t… [+2093 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Elizabeth Pritchett",
+            "title": "FedEx, UPS warn mail delivery could be interrupted by winter storm as driver safety takes priority - Fox News",
+            "description": "FedEx and UPS delivery services were also affected by the winter storm after the companies said distribution hubs were blasted by the severe weather conditions.",
+            "url": "https://www.foxnews.com/us/fedex-ups-warn-mail-delivery-could-interrupted-winter-storm-driver-safety-takes-priority",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/fed-ex-sanfrancisco.jpg",
+            "publishedAt": "2022-12-24T09:07:38Z",
+            "content": "FedEx and UPS announced package delivery could be interrupted by the massive winter storm moving across the U.S. after key distribution hubs were blasted by the severe weather conditions.\r\nOn Friday,… [+2663 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sarah Lazarus",
+            "title": "Millions have the same 'bendy body' disease as my daughter. Why isn't the medical profession paying more attention? - CNN",
+            "description": "Hypermobile Ehlers-Danlos syndrome is a connective tissue disorder. When Sarah Lazarus' daughter was diagnosed with it, she discovered that the majority of cases are going undiagnosed for decades.",
+            "url": "https://www.cnn.com/2022/12/24/health/hypermobile-ehlers-danlos-syndrome-health-hnk-spc-dst-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220721082106-08-ehlers-danlos-syndrome-poppy.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-24T08:11:00Z",
+            "content": "One day in July 2021, my then 15-year-old daughter Poppy stumbled and fell while walking down some stairs, grazing her knee. It wasnt a serious wound, but over the weeks it didnt heal. \r\nAround the s… [+16154 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Ryan McMorrow, Cheng Leng, Sun Yu, Qianer Liu",
+            "title": "China estimates 250mn people have caught Covid in 20 days - Financial Times",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/1fb6044a-3050-44d8-b715-80c18ca5c9ab",
+            "urlToImage": null,
+            "publishedAt": "2022-12-24T07:43:59Z",
+            "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ… [+1496 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Samantha Pell",
+            "title": "Alex Ovechkin scores 802nd goal, passing Gordie Howe for second all-time - The Washington Post",
+            "description": "Ovechkin scores twice in a 4-1 win over the Winnipeg Jets at Capital One Arena. No. 802 comes on an empty net.",
+            "url": "https://www.washingtonpost.com/sports/2022/12/23/alex-ovechkin-802-goals/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PTMFEOEMGBACVK4F5AVXX7AEGQ.jpg&w=1440",
+            "publishedAt": "2022-12-24T05:49:00Z",
+            "content": "Comment on this story\r\nAlex Ovechkin took the next step in his pursuit of hockey history Friday night, scoring his 801st and 802nd career goals to pass Gordie Howe for No. 2 on the NHLs all-time list… [+6612 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Mike Florio",
+            "title": "Michael Irvin says Franco Harris died suddenly - NBC Sports",
+            "description": "In the short time since the unexpected passing of Hall of Fame running back Franco Harris, hardly any details have emerged as to the cause of his death.Hall of Fame receiver Michael Irvin, who’ll call the Saturday night Raiders-Steelers game along with Rich E…",
+            "url": "https://profootballtalk.nbcsports.com/2022/12/23/michael-irvin-says-franco-harris-died-suddenly/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/12/GettyImages-494066559-e1671857366589.jpg",
+            "publishedAt": "2022-12-24T04:50:00Z",
+            "content": "In the short time since the unexpected passing of Hall of Fame running back Franco Harris, hardly any details have emerged as to the cause of his death.\r\nHall of Fame receiver Michael Irvin, wholl ca… [+824 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Shooting sends Mall of America into lockdown - WCCO - CBS Minnesota",
+            "description": "A shooting prompted the Mall of America to go on lockdown Friday night on a busy shopping night less than two days before Christmas.",
+            "url": "https://www.youtube.com/watch?v=E3tokRMgEOM",
+            "urlToImage": "https://i.ytimg.com/vi/E3tokRMgEOM/maxresdefault.jpg",
+            "publishedAt": "2022-12-24T04:12:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Danielle Paquette, Emmanuel Felton",
+            "title": "Extreme winter storm freeze, power outages sweep from New York to Texas - The Washington Post",
+            "description": "More than 1.5 million people were without power, holiday travel was scrambled and thousands were ordered to stay home as the storm pummeled most of the nation.",
+            "url": "https://www.washingtonpost.com/nation/2022/12/23/winter-storm-arctic-blast-freezes-us/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RXLW6VWYSQYTI6ME5HOXEXIQ7A.jpg&w=1440",
+            "publishedAt": "2022-12-24T04:06:00Z",
+            "content": "Comment on this story\r\nThe fearsome winter storm that forecasters likened to a hurricane within a blizzard tore through the United States on Friday, knocking out power for at least 1.5 million people… [+10677 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Jury Finds Tory Lanez Guilty In Shooting Of Megan Thee Stallion - NBC News",
+            "description": "A Los Angeles jury found Tory Lanez guilty of all three felony charges he was facing in the shooting of fellow rapper Megan Thee Stallion. NBC News’ Niala Ch...",
+            "url": "https://www.youtube.com/watch?v=44bPZDagjB8",
+            "urlToImage": "https://i.ytimg.com/vi/44bPZDagjB8/maxresdefault.jpg",
+            "publishedAt": "2022-12-24T03:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Bray Wyatt attacks a cameraman with the Mandible Claw: SmackDown, Dec. 23, 2022 - WWE",
+            "description": "Bray Wyatt’s demons continue to plague him when he becomes lost in thought and attacks an unsuspecting target. Catch WWE action on WWE Network, FOX, USA Netw...",
+            "url": "https://www.youtube.com/watch?v=ap0XMrC9nIw",
+            "urlToImage": "https://i.ytimg.com/vi/ap0XMrC9nIw/maxresdefault.jpg",
+            "publishedAt": "2022-12-24T03:25:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Isidore",
+            "title": "Elon Musk's Twitter obsession isn't the core reason for Tesla stock's plunge - CNN",
+            "description": "A popular misconception has emerged about Elon Musk and Tesla: The megabillionaire's love affair with Twitter is the main reason Tesla shares have lost so much value this year. But Tesla's steep stock selloff this week proved that the problems at Musk's car c…",
+            "url": "https://www.cnn.com/2022/12/23/investing/elon-musk-tesla-twitter/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221223093358-musk-tesla-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-24T02:14:00Z",
+            "content": "A popular misconception has emerged about Elon Musk and Tesla: The megabillionaires love affair with Twitter is the main reason Tesla shares have lost so much value this year. But Teslas steep stock … [+6919 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sophie Tanno",
+            "title": "Afghanistan: The Taliban pledged to honor women's rights. Here's how it eroded them instead - CNN",
+            "description": "When the Taliban returned to power in Afghanistan in August 2021 in a lightning takeover following the withdrawal of US troops, the radical Islamist group appeared keen to distance itself from its earlier period of rule in the 1990s, presenting itself as more…",
+            "url": "https://www.cnn.com/2022/12/23/asia/taliban-women-freedoms-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221223112401-01-taliban-afghanistan-women-freedoms.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-24T01:41:00Z",
+            "content": "When the Taliban returned to power in Afghanistan in August 2021 in a lightning takeover following the withdrawal of US troops, the radical Islamist group appeared keen to distance itself from its ea… [+5990 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Cramer warns investors not to repeat this year's mistakes when it comes to tech stocks - CNBC Television",
+            "description": "Cramer explained why investors should be careful when dealing with the mega-cap tech stocks in their portfolio.",
+            "url": "https://www.youtube.com/watch?v=Ed_ZDNxFGj8",
+            "urlToImage": "https://i.ytimg.com/vi/Ed_ZDNxFGj8/maxresdefault.jpg",
+            "publishedAt": "2022-12-24T00:47:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Sun"
+            },
+            "author": "Mystic Meg",
+            "title": "Horoscope today: Daily star sign guide from Mystic Meg on December 24... - The Sun",
+            "description": "♈ ARIES March 21 to April 20 A special heart is being wrapped up to present to you – and tonight could be the night. So say yes to any invite, even unexpected. If you are already in a couple, inste…",
+            "url": "https://www.thesun.co.uk/fabulous/horoscopes/20852389/horoscope-today-daily-star-sign-mystic-meg-december-24-2022/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2022/12/image-983.png?strip=all&quality=100&w=1920&h=1080&crop=1",
+            "publishedAt": "2022-12-24T00:01:00Z",
+            "content": "ARIES\r\nMarch 21 to April 20\r\nA special heart is being wrapped up to present to you and tonight could be the night. \r\nSo say yes to any invite, even unexpected. \r\nIf you are already in a couple, inste… [+5933 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Chris Bumbaca, USA TODAY",
+            "title": "Miles Austin, NY Jets WR coach, suspended over NFL's gambling policy - USA TODAY",
+            "description": "New York Jets wide receivers coach Miles Austin has been suspended for violating the league's gambling policy. He is appealing the suspension.",
+            "url": "https://www.usatoday.com/story/sports/nfl/jets/2022/12/23/jets-receivers-coach-miles-austin-suspended-over-nfl-gambling-policy/10950387002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/12/23/USAT/72341b84-7e75-4a59-9915-ff459920c793-USATSI_19196487.jpg?auto=webp&crop=2519,1417,x0,y155&format=pjpg&width=1200",
+            "publishedAt": "2022-12-23T23:45:26Z",
+            "content": "The NFL confirmed Friday that New York Jets wide receivers coach Miles Austin has been suspended indefinitely for violating the league's gambling policy.  \r\nAccording to league spokesman Brian McCart… [+2147 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "U of I professor sues TikTok sleuth who has accused her in killing of four students - Idaho Statesman",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiRWh0dHBzOi8vd3d3LmlkYWhvc3RhdGVzbWFuLmNvbS9uZXdzL2xvY2FsL2NyaW1lL2FydGljbGUyNzAzODYyMzIuaHRtbNIBRWh0dHBzOi8vYW1wLmlkYWhvc3RhdGVzbWFuLmNvbS9uZXdzL2xvY2FsL2NyaW1lL2FydGljbGUyNzAzODYyMzIuaHRtbA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-12-23T23:28:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Mary Clare Jalonick",
+            "title": "Jan. 6 report blames Trump, aims to prevent return to power - The Associated Press - en Español",
+            "description": "WASHINGTON (AP) — A massive final report  released by the House Jan. 6 committee late Thursday places the blame for the 2021 Capitol insurrection  on one person: former President Donald Trump.",
+            "url": "https://apnews.com/article/donald-trump-823941a7a7a7e8e354d3ce64ac8b5d99",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/50808d00148a4e03bdf61f865cedfe77/3000.jpeg",
+            "publishedAt": "2022-12-23T23:21:26Z",
+            "content": "WASHINGTON (AP) A massive final report released by the House Jan. 6 committee late Thursday places the blame for the 2021 Capitol insurrection on one person: former President Donald Trump. \r\nThe dens… [+8937 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Airlines cancel 5000 U.S. flights Friday amid fierce winter storms - Reuters",
+            "description": "Airlines canceled over 5,000 U.S. flights on Friday as massive <a href=\"/world/us/sprawling-us-storm-threatens-holiday-travel-bomb-cyclone-looms-2022-12-21/\">winter storm</a>s snarled airport operations around the United States and frustrated tens of thousand…",
+            "url": "https://www.reuters.com/world/us/airlines-cancel-3900-us-flights-friday-winter-storm-snarls-travel-2022-12-23/",
+            "urlToImage": "https://www.reuters.com/resizer/c5Mgi_8-A032NLdF3MM13aVnU6Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JOAFHTEFVZNMRELTCRCUS73HKI.jpg",
+            "publishedAt": "2022-12-23T22:57:00Z",
+            "content": "WASHINGTON, Dec 23 (Reuters) - Airlines canceled over 5,000 U.S. flights on Friday as massive winter storms snarled airport operations around the United States and frustrated tens of thousands of hol… [+1908 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Fantasy Football Week 16 Sleepers & DFS: Eagles' Gardner Minshew goes from riding pine to prime time - CBS Sports",
+            "description": "Get your Fantasy and DFS lineups ready to win in playoff semifinal week",
+            "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-16-sleepers-dfs-eagles-gardner-minshew-goes-from-riding-pine-to-prime-time/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/23/cc3e39a4-9723-4d8e-a122-2ba18e6497b0/thumbnail/1200x675/c0b0feb8b0fdfa8513dd31c1603b5347/gardner-minshew-7-1400-us.jpg",
+            "publishedAt": "2022-12-23T22:48:00Z",
+            "content": "Week 16 is all about Gardner Minshew. With Jalen Hurts (shoulder) out at Dallas, Minshew will start for the Eagles, and he has top-10 potential as a Fantasy quarterback. \r\nMinshew started two games f… [+3553 chars]"
+        }
+    ]
+}
